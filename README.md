@@ -1,4 +1,4 @@
-# Human Generated Questions in ``Shortcomings of Question Answering Based Factuality Frameworks for Error Localization''
+# Human Generated Questions in ''Shortcomings of Question Answering Based Factuality Frameworks for Error Localization''
 
 Human generated questions used in the analysis in the paper [Shortcomings of Question Answering Based Factuality Frameworks for Error Localization](https://arxiv.org/pdf/2210.06748.pdf) (Section 6)
 
